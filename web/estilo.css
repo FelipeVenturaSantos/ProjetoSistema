@@ -1,0 +1,111 @@
+body{
+    background: #ccc;
+}
+
+#tabela{
+    padding: 10px;
+    border: 0px solid black;
+    margin: 100px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 5px black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+a{
+    text-decoration: none;
+    padding: 50px;
+    font-weight: bold;
+    font-size: 30px;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+
+
+.corpo{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 5px;
+}
+.tab:hover{
+    background: black;
+}
+a:hover{
+    color: white;
+}
+
+.tab{
+    box-shadow: 1px 1px 5px black;  
+}
+
+
+.local{
+    margin-top: 20px !important;
+    font-weight: bold;
+    font-size: 32px;
+    border: 3px solid black;
+    width: 200px !important;
+    padding: 10px;
+    background: black;
+    text-align: center;			
+    color: white !important;
+    display: inline-block;
+    box-shadow: 1px 1px 5px white;
+}
+
+.display>a{
+    border-radius: 5px; 
+}
+
+.tab{
+    margin-top: 20px !important;
+    font-weight: bold;
+    font-size: 32px;
+    width: 200px !important;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;	
+    display: inline-block;
+}
+
+.texto>input{
+    box-shadow: 1px 1px 1px black;
+    border-radius: 3px; 
+}
+
+.botoes>input{
+    box-shadow: 1px 1px 1px black;
+    border-radius: 6px; 
+    margin-top: 15px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
+    background: white;
+    color: black;
+}
+
+input:hover{
+	background-color: black;
+	color: white;
+}
+
+.excluir{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.excluir:hover{
+    color: black;
+}
+
+
+
